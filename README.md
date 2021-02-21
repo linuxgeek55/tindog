@@ -1,2 +1,1 @@
-# tindog
-Sample Website with no Javascript
+TinDog Starting Files
